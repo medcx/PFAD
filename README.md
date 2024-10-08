@@ -5,7 +5,7 @@ This repository is based on [guided-diffusion](https://github.com/openai/guided-
 We provide pre-trained models for the HCP dataset, please save it to ```results/model/brain```. 
 
 Here are the download link: 
-https://drive.google.com/file/d/1Hh0wabKmW5CUXpUAS4GcEHZIoYeZq_v-/view?usp=sharing
+[Google Drive](https://drive.google.com/file/d/1Hh0wabKmW5CUXpUAS4GcEHZIoYeZq_v-/view?usp=sharing)
 
 # Artifacts removal via the pre-trained model
 Please run:
