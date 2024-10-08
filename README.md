@@ -11,7 +11,7 @@ Here are the download link:
 # Artifacts removal via the pre-trained model
 At the beginning, we need to build an environment called ```artifact_removal```.
 ```
-conda create -f environment.yaml
+conda env create -f environment.yaml
 ```
 To get the inference results of PFAD, please run:
 ```
