@@ -5,7 +5,7 @@ This repository is based on [guided-diffusion](https://github.com/openai/guided-
 
 ## Overview
 
-PFAD is a method for medical image motion artifact removal using pixel-frequency domain information combined with alternating masks.
+PFAD is a method for medical image motion artifact removal using pixel-frequency domain information combined with alternate masks.
 
 ![overall_framework](./assets/method.png)
 
