@@ -3,6 +3,14 @@ This is the codebase for the article [Motion Artifact Removal in Pixel-Frequency
 
 This repository is based on [guided-diffusion](https://github.com/openai/guided-diffusion).
 
+## Overview
+
+PFAD is a method for medical image artifact removal using pixel-frequency domain information combined with alternating masks.
+
+![overall_framework](./assets/method.png)
+
+## Quick Start
+
 **Download the pre-trained model**
 
 We provide the pre-trained model for HCP dataset, please save it to ```results/model/brain```. 
@@ -24,3 +32,9 @@ python image_sample.py --conf_path ../conf/brain_sample_config.yml --img_dir bra
 Then, you can obtain the results of the example images after removing motion artefacts in ```results/motion_remove```
 
 We currently only provide the code for the inference process, you can refer to [guided-diffusion](https://github.com/openai/guided-diffusion) for training process.
+
+## Results
+
+We show the visualization results on HCP (Brain dataset).
+
+![visualization results](./assets/brain.png)
