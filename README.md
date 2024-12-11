@@ -38,3 +38,8 @@ We currently only provide the code for the inference process, you can refer to [
 We show the visualization results on HCP (Brain dataset).
 
 ![visualization results](./assets/brain.png)
+
+## Contact
+
+If you have any questions, please contact jhxu.xidian@gmail.com.
+
