@@ -3,38 +3,55 @@
 <h1> Motion Artifact Removal in Pixel-Frequency Domain via Alternate Masks and Diffusion Model </h1>
 
 <div>
-    <a href="jhxu.xidian@gmail.com" target="_blank">Jiahua Xu</a><sup></sup> | 
-    <a href="dwzhou.xidian@gmail.com" target="_blank">Dawei Zhou</a><sup></sup> | 
-    <a href="hulei@gdph.org.cn" target="_blank">Lei Hu</a><sup></sup> | 
-    <a href="jianfengguo@hbmu.edu.cn" target="_blank">Jianfeng Guo</a><sup></sup> |
-    <a href="haitang76@163.com" target="_blank">Feng Yang</a><sup></sup> 
+    <a href='https://scholar.google.com.hk/citations?user=NC_8AWkAAAAJ'target='_blank'>Jiahua Xu</a><sup>1</sup>&emsp;
+    <a href='https://scholar.google.com.hk/citations?user=7H-LIigAAAAJ'target='_blank'>Dawei Zhou</a><sup>1</sup>&emsp;
+    <a href='https://scholar.google.com.hk/citations?user=AyboWyoAAAAJ'target='_blank'>Lei Hu</a><sup>2</sup>&emsp;
+    Jianfeng Guo<sup>3</sup>&emsp;
+    Feng Yang<sup>3</sup>&emsp;
     </br>
-    <a href="liuzaiyi@gdph.org.cn" target="_blank">Zaiyi Liu</a><sup></sup> |
-    <a href="nnwang@xidian.edu.cn" target="_blank">Nannan Wang</a><sup></sup> |
-    <a href="gaoxb@cqupt.edu.cn" target="_blank">Xinbo Gao</a><sup></sup> 
+    Zaiyi Liu<sup>2</sup>&emsp;
+    <a href='https://scholar.google.com.hk/citations?user=SRBn7oUAAAAJ'target='_blank'>Nannan Wang</a><sup>1</sup>&emsp;
+    <a href='https://scholar.google.com.hk/citations?user=VZVTOOIAAAAJ'target='_blank'>Xinbo Gao</a><sup>4</sup>&emsp;
 </div>
-
+<div>
+    <sup>1</sup>State Key Laboratory of Integrated Services Networks, Xidian University;<br>
+    <sup>2</sup>Department of Radiology, Guangdong Provincial People’s Hospital, Southern Medical University;<br>
+    <sup>3</sup>Department of Radiology, Xiangyang No. 1 People’s Hospital, Hubei University of Medicine;<br>
+    <sup>4</sup>Chongqing Key Laboratory of Image Cognition, Chongqing University of Posts and Telecommunications;
+</div>
 </br>
-
-[![Arxiv](https://img.shields.io/badge/paper-Arxiv-green)](https://arxiv.org/abs/2412.07590)
+<div>
+    <strong>AAAI 2025</strong>
+</div>
+<div>
+    <h4 align="center">
+        <a href="https://github.com/medcx/PFAD/" target='_blank'>
+        <img src="https://img.shields.io/badge/🤗%20Github-PFAD-yellow">
+        </a>
+        <a href="https://arxiv.org/abs/2412.07590" target='_blank'>
+        <img src="https://img.shields.io/badge/arXiv%20paper-2412.07590-b31b1b.svg">
+        </a>
+    </h4>
+</div>
 
 
 </div>
 
 
 ---
+## 🔥Caption
 
 This is the codebase for the article [Motion Artifact Removal in Pixel-Frequency Domain via Alternate Masks and Diffusion Model](https://arxiv.org/pdf/2412.07590) (AAAI 2025).
 
 This repository is based on [guided-diffusion](https://github.com/openai/guided-diffusion).
 
-## Overview
+## 🔍Overview
 
 PFAD is a method for medical image motion artifact removal using pixel-frequency domain information combined with alternate masks.
 
 ![overall_framework](./assets/method.png)
 
-## Quick Start
+## 🔧Quick Start
 
 **Download the pre-trained model**
 
@@ -58,13 +75,23 @@ Then, you can obtain the results of the example images after removing motion art
 
 We currently only provide the code for the inference process, you can refer to [guided-diffusion](https://github.com/openai/guided-diffusion) for training process.
 
-## Results
+## ⚡Results
 
 We show the visualization results on HCP (Brain dataset).
 
 ![visualization results](./assets/brain.png)
 
-## Contact
+## 📧Contact
 
 If you have any questions, please contact jhxu.xidian@gmail.com.
+
+## 📖 Citation
+If you find our work useful for your research, please consider citing our paper:
+```
+@article{xu2024motion,
+  title={Motion Artifact Removal in Pixel-Frequency Domain via Alternate Masks and Diffusion Model},
+  author={Xu, Jiahua and Zhou, Dawei and Hu, Lei and Guo, Jianfeng and Yang, Feng and Liu, Zaiyi and Wang, Nannan and Gao, Xinbo},
+  journal={arXiv preprint arXiv:2412.07590},
+  year={2024}
+}
 
