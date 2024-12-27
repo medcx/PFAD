@@ -1,6 +1,6 @@
 <div align="center">
   
-<h1> PFAD for motion artifact removal </h1>
+<h1> Motion Artifact Removal in Pixel-Frequency Domain via Alternate Masks and Diffusion Model </h1>
 
 <div>
     <a href="jhxu.xidian@gmail.com" target="_blank">Jiahua Xu</a><sup></sup> | 
@@ -16,12 +16,8 @@
 
 </br>
 
-<div>
-    <sup></sup>AAAI 2025
-</div>
-</br>
-
 [![Arxiv](https://img.shields.io/badge/paper-Arxiv-green)](https://arxiv.org/abs/2412.07590)
+
 
 </div>
 
