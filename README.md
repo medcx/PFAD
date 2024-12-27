@@ -14,10 +14,10 @@
     <a href='https://scholar.google.com.hk/citations?user=VZVTOOIAAAAJ'target='_blank'>Xinbo Gao</a><sup>4</sup>&emsp;
 </div>
 <div>
-    <sup>1</sup>State Key Laboratory of Integrated Services Networks, Xidian University;<br>
-    <sup>2</sup>Department of Radiology, Guangdong Provincial People’s Hospital, Southern Medical University;<br>
-    <sup>3</sup>Department of Radiology, Xiangyang No. 1 People’s Hospital, Hubei University of Medicine;<br>
-    <sup>4</sup>Chongqing Key Laboratory of Image Cognition, Chongqing University of Posts and Telecommunications;
+    <sup>1</sup>State Key Laboratory of Integrated Services Networks, Xidian University&emsp;<br>
+    <sup>2</sup>Department of Radiology, Guangdong Provincial People’s Hospital, Southern Medical University&emsp;<br>
+    <sup>3</sup>Department of Radiology, Xiangyang No. 1 People’s Hospital, Hubei University of Medicine&emsp;<br>
+    <sup>4</sup>Chongqing Key Laboratory of Image Cognition, Chongqing University of Posts and Telecommunications&emsp;
 </div>
 </br>
 <div>
