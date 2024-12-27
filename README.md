@@ -13,6 +13,7 @@
     <a href='https://scholar.google.com.hk/citations?user=SRBn7oUAAAAJ'target='_blank'>Nannan Wang</a><sup>1</sup>&emsp;
     <a href='https://scholar.google.com.hk/citations?user=VZVTOOIAAAAJ'target='_blank'>Xinbo Gao</a><sup>4</sup>&emsp;
 </div>
+</br>
 <div>
     <sup>1</sup>State Key Laboratory of Integrated Services Networks, Xidian University&emsp;<br>
     <sup>2</sup>Department of Radiology, Guangdong Provincial People’s Hospital, Southern Medical University&emsp;<br>
