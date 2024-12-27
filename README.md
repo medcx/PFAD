@@ -32,6 +32,7 @@
         <a href="https://github.com/medcx/PFAD/" target='_blank'>
         <img src="https://img.shields.io/badge/github%20🤗-PFAD-yellow">
         </a>
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=medcx/PFAD">
     </h4>
 </div>
 
