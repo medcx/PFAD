@@ -87,13 +87,4 @@ We show the visualization results on HCP (Brain dataset).
 
 If you have any questions, please contact jhxu.xidian@gmail.com.
 
-## 📖 Citation
-If you find our work useful for your research, please consider citing our paper:
-```
-@article{xu2024motion,
-  title={Motion Artifact Removal in Pixel-Frequency Domain via Alternate Masks and Diffusion Model},
-  author={Xu, Jiahua and Zhou, Dawei and Hu, Lei and Guo, Jianfeng and Yang, Feng and Liu, Zaiyi and Wang, Nannan and Gao, Xinbo},
-  journal={arXiv preprint arXiv:2412.07590},
-  year={2024}
-}
-```
+
