@@ -40,7 +40,7 @@
 
 
 ---
-## 🔥Caption
+## 🔑Caption
 
 This is the codebase for the article [Motion Artifact Removal in Pixel-Frequency Domain via Alternate Masks and Diffusion Model](https://arxiv.org/pdf/2412.07590) (AAAI 2025).
 
