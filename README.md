@@ -1,7 +1,34 @@
-# PFAD for motion artifact removal
-This is the codebase for the article [Motion Artifact Removal in Pixel-Frequency Domain via Alternate Masks and Diffusion Model](https://arxiv.org/pdf/2412.07590) (AAAI 2025).
+<div align="center">
+  
+<h1> PFAD for motion artifact removal </h1>
+
+<div>
+    <a href="jhxu.xidian@gmail.com" target="_blank">Jiahua Xu</a><sup></sup> | 
+    <a href="dwzhou.xidian@gmail.com" target="_blank">Dawei Zhou</a><sup></sup> | 
+    <a href="hulei@gdph.org.cn" target="_blank">Lei Hu</a><sup></sup> | 
+    <a href="jianfengguo@hbmu.edu.cn" target="_blank">Jianfeng Guo</a><sup></sup> |
+    <a href="haitang76@163.com" target="_blank">Feng Yang</a><sup></sup> 
+    </br>
+    <a href="liuzaiyi@gdph.org.cn" target="_blank">Zaiyi Liu</a><sup></sup> |
+    <a href="nnwang@xidian.edu.cn" target="_blank">Nannan Wang</a><sup></sup> |
+    <a href="gaoxb@cqupt.edu.cn" target="_blank">Xinbo Gao</a><sup></sup> 
+</div>
+
+</br>
+
+<div>
+    <sup></sup>AAAI 2025
+</div>
+</br>
 
 [![Arxiv](https://img.shields.io/badge/paper-Arxiv-green)](https://arxiv.org/abs/2412.07590)
+
+</div>
+
+
+---
+
+This is the codebase for the article [Motion Artifact Removal in Pixel-Frequency Domain via Alternate Masks and Diffusion Model](https://arxiv.org/pdf/2412.07590) (AAAI 2025).
 
 This repository is based on [guided-diffusion](https://github.com/openai/guided-diffusion).
 
