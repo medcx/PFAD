@@ -26,11 +26,11 @@
 </div>
 <div>
     <h4 align="center">
-        <a href="https://github.com/medcx/PFAD/" target='_blank'>
-        <img src="https://img.shields.io/badge/🤗%20Github-PFAD-yellow">
-        </a>
         <a href="https://arxiv.org/abs/2412.07590" target='_blank'>
         <img src="https://img.shields.io/badge/ArXiv%20-2412.07590-b31b1b.svg">
+        </a>
+        <a href="https://github.com/medcx/PFAD/" target='_blank'>
+        <img src="https://img.shields.io/badge/🤗%20Github-PFAD-yellow">
         </a>
     </h4>
 </div>
