@@ -30,7 +30,7 @@
         <img src="https://img.shields.io/badge/ArXiv%20-2412.07590-b31b1b.svg">
         </a>
         <a href="https://github.com/medcx/PFAD/" target='_blank'>
-        <img src="https://img.shields.io/badge/🤗%20Github-PFAD-yellow">
+        <img src="https://img.shields.io/badge/Github%20🤗-PFAD-yellow">
         </a>
     </h4>
 </div>
