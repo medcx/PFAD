@@ -29,10 +29,13 @@
         <a href="https://arxiv.org/abs/2412.07590" target='_blank'>
         <img src="https://img.shields.io/badge/Paper-Arxiv-b31b1b.svg">
         </a>
-        <a href="https://github.com/medcx/PFAD/" target='_blank'>
+        <a href="https://github.com/medcx/PFAD" target='_blank'>
         <img src="https://img.shields.io/badge/Github%20🤗-PFAD-yellow">
         </a>
         <img src="https://visitor-badge.laobi.icu/badge?page_id=medcx/PFAD">
+        <a href="https://github.com/medcx/PFAD" target='_blank'>
+        <img src="https://img.shields.io/github/stars/medcx/PFAD?style=social">
+        </a>
     </h4>
 </div>
 
