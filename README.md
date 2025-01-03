@@ -39,7 +39,7 @@
     </h4>
 </div>
 
-⭐ If PFAD is helpful to your projects, please help star this repository. Thanks! ⭐
+⭐ If PFAD is helpful to your projects, please help star this repository. Thanks! 🤗
 
 </div>
 
@@ -81,7 +81,7 @@ Then, you can obtain the results of the example images after removing motion art
 
 We currently only provide the code for the inference process, you can refer to [guided-diffusion](https://github.com/openai/guided-diffusion) for training process.
 
-## ⚡Results
+## 🏆Results
 
 We show the visualization results on HCP (Brain dataset).
 
