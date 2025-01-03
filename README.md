@@ -39,7 +39,7 @@
     </h4>
 </div>
 
-⭐⭐⭐ If PFAD is helpful to your projects, please help star this repository. Thanks! ⭐⭐⭐
+⭐ If PFAD is helpful to your projects, please help star this repository. Thanks! ⭐
 
 </div>
 
