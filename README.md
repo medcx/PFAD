@@ -81,11 +81,11 @@ Then, you can obtain the results of the example images after removing motion art
 
 **Training on your own dataset**
 
-Before training, you need to save your own dataset in ‘dataset/train’ in npy format.
+Before training, you need to save your own dataset in ```datasets/train``` in npy format.
 
 For example,
 ```
-/dataset
+/datasets
 ├── train
 |   └── sample_0_0.npy
 |   └── sample_0_1.npy
@@ -96,6 +96,12 @@ For example,
 |   └── sample_1_2.npy
 |   └── ...
 ```
+Then, please run the following code to train the model on your own dataset:
+```
+python image_train.py --conf_path ../conf/brain_train_config.yml
+```
+The model will be saved in the ```results``` folder
+
 
 ## 🏆Results
 
