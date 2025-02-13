@@ -88,13 +88,13 @@ For example,
 /datasets
 ├── train
 |   ├── brain
-|       └── sample_0_0.npy
-|       └── sample_0_1.npy
-|       └── sample_0_2.npy
+|       └── brain_0_0.npy
+|       └── brain_0_1.npy
+|       └── brain_0_2.npy
 |       └── ...
-|       └── sample_1_0.npy
-|       └── sample_1_1.npy
-|       └── sample_1_2.npy
+|       └── brain_1_0.npy
+|       └── brain_1_1.npy
+|       └── brain_1_2.npy
 |       └── ...
 ```
 Then, please run the following code to train the model on your own dataset:
