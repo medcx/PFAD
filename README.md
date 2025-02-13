@@ -101,7 +101,7 @@ Then, please run the following code to train the model on your own dataset:
 ```
 python image_train.py --conf_path ../conf/brain_train_config.yml
 ```
-The model will be saved in the ```results``` folder
+The model will be saved in the ```results``` folder.
 
 
 ## 🏆Results
