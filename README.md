@@ -77,7 +77,7 @@ To get the inference results of PFAD, please run:
 cd scripts
 python image_sample.py --conf_path ../conf/brain_sample_config.yml --img_dir brain --save_path motion_remove
 ```
-Then, you can obtain the results of the example images after removing motion artefacts in ```results/motion_remove```
+Then, you can obtain the results of the example images after removing motion artefacts in ```results/motion_remove```.
 
 **Training on your own dataset**
 
