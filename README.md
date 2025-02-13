@@ -84,6 +84,7 @@ Then, you can obtain the results of the example images after removing motion art
 Before training, you need to save your own dataset in ‘dataset/train’ in npy format.
 
 For example,
+```
 /dataset
 ├── train
 |   └── sample_0_0.npy
@@ -94,6 +95,7 @@ For example,
 |   └── sample_1_1.npy
 |   └── sample_1_2.npy
 |   └── ...
+```
 
 ## 🏆Results
 
