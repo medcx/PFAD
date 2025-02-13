@@ -81,7 +81,19 @@ Then, you can obtain the results of the example images after removing motion art
 
 **Training on your own dataset**
 
-Before training, you need to save your own dataset in npy format and save it in ‘dataset/train’
+Before training, you need to save your own dataset in ‘dataset/train’ in npy format.
+
+For example,
+/dataset
+├── train
+|   └── sample_0_0.npy
+|   └── sample_0_1.npy
+|   └── sample_0_2.npy
+|   └── ...
+|   └── sample_1_0.npy
+|   └── sample_1_1.npy
+|   └── sample_1_2.npy
+|   └── ...
 
 ## 🏆Results
 
