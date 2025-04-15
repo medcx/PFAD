@@ -29,6 +29,9 @@
         <a href="https://arxiv.org/abs/2412.07590" target='_blank'>
         <img src="https://img.shields.io/badge/Paper-Arxiv-b31b1b.svg">
         </a>
+        <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32960" target='_blank'>
+        <img src="https://img.shields.io/badge/Conference-AAAI-green">
+        </a>
         <a href="https://github.com/medcx/PFAD" target='_blank'>
         <img src="https://img.shields.io/badge/Github%20🤗-PFAD-yellow">
         </a>
@@ -122,7 +125,9 @@ If you find our work useful for your research, please consider citing our paper:
   title={Motion Artifact Removal in Pixel-Frequency Domain via Alternate Masks and Diffusion Model},
   author={Xu, Jiahua and Zhou, Dawei and Hu, Lei and Guo, Jianfeng and Yang, Feng and Liu, Zaiyi and Wang, Nannan and Gao, Xinbo},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  pages={xxxxx--xxxxx},
+  volume={39},
+  number={8},
+  pages={8878--8886},
   year={2025}
 }
 ```
