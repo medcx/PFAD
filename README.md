@@ -9,7 +9,7 @@
     Jianfeng Guo<sup>3</sup>&emsp;
     Feng Yang<sup>3</sup>&emsp;
     </br>
-    <a href='https://scholar.google.com.hk/citations?user=OkrZX0AAAAAJ'target='_blank'>Zaiyi Liu</a><sup>2</sup>&emsp;
+    Zaiyi Liu<sup>2</sup>&emsp;
     <a href='https://scholar.google.com.hk/citations?user=SRBn7oUAAAAJ'target='_blank'>Nannan Wang</a><sup>1</sup>&emsp;
     <a href='https://scholar.google.com.hk/citations?user=VZVTOOIAAAAJ'target='_blank'>Xinbo Gao</a><sup>4</sup>&emsp;
 </div>
